@@ -1,0 +1,15 @@
+export const categories = [
+  { id: 1, name: "Women", icon: "👗", slug: "women" },
+  { id: 2, name: "Men", icon: "👔", slug: "men" },
+  { id: 3, name: "Kids", icon: "🧸", slug: "kids" },
+  { id: 4, name: "Beauty", icon: "💄", slug: "beauty" },
+  { id: 5, name: "Electronics", icon: "📱", slug: "electronics" },
+  { id: 6, name: "Home", icon: "🏠", slug: "home" },
+  { id: 7, name: "Kitchen", icon: "🍳", slug: "kitchen" },
+  { id: 8, name: "Footwear", icon: "👟", slug: "footwear" },
+  { id: 9, name: "Jewellery", icon: "💍", slug: "jewellery" },
+  { id: 10, name: "Bags", icon: "👜", slug: "bags" },
+  { id: 11, name: "Mobiles", icon: "📲", slug: "mobiles" },
+  { id: 12, name: "Groceries", icon: "🛒", slug: "groceries" },
+  { id: 13, name: "Fashion", icon: "🕶️", slug: "fashion" },
+];
